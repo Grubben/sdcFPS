@@ -7,4 +7,10 @@ build/
 lib/
 
 # I added
+# godot recommends
+*.translation
+export_presets.cfg
+.mono/
+
+# me
 .DS_Store
